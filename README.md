@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Car Rental Application Front-end
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is the front-end application for the car rental application. 
+
+
+The application allows the admin to manage the cars and the users to rent the cars.
 
 ## Available Scripts
 
